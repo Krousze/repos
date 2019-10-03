@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AddCmdLineArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "10 20 jimmy 40 50",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
