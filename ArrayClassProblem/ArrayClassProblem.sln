@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayClassProblem", "ArrayClassProblem\ArrayClassProblem.csproj", "{E88F02F6-471B-4CBB-8183-13EA5FAA66BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88F02F6-471B-4CBB-8183-13EA5FAA66BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88F02F6-471B-4CBB-8183-13EA5FAA66BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88F02F6-471B-4CBB-8183-13EA5FAA66BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88F02F6-471B-4CBB-8183-13EA5FAA66BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF54480-AF62-49AE-BB91-4351251E99E0}
+	EndGlobalSection
+EndGlobal
